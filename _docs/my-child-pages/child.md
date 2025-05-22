@@ -7,6 +7,6 @@ nav_order: 1
 
 # vaikuuuuutis
 
-This is a child page under "My docs".
+Cia vaikutis gyvena
 
 [← Back to My docs]({{ site.baseurl }}/docs/my-docs/)
